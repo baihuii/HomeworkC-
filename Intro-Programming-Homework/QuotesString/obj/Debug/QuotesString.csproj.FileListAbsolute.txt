@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\QuotesString\bin\Debug\QuotesString.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\QuotesString\bin\Debug\QuotesString.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\QuotesString\bin\Debug\QuotesString.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\QuotesString\obj\Debug\QuotesString.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\QuotesString\obj\Debug\QuotesString.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\QuotesString\obj\Debug\QuotesString.pdb

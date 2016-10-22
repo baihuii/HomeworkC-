@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sqrt\bin\Debug\Sqrt.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sqrt\bin\Debug\Sqrt.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sqrt\bin\Debug\Sqrt.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sqrt\obj\Debug\Sqrt.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sqrt\obj\Debug\Sqrt.pdb

@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintNum\bin\Debug\PrintNum.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintNum\bin\Debug\PrintNum.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintNum\bin\Debug\PrintNum.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintNum\obj\Debug\PrintNum.csprojResolveAssemblyReference.cache
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintNum\obj\Debug\PrintNum.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintNum\obj\Debug\PrintNum.pdb

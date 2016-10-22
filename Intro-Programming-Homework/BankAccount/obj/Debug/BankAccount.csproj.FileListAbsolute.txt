@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\BankAccount\obj\Debug\BankAccount.pdb

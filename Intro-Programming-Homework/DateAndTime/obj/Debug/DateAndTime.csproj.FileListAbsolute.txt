@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\DateAndTime\bin\Debug\DateAndTime.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\DateAndTime\bin\Debug\DateAndTime.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\DateAndTime\bin\Debug\DateAndTime.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\DateAndTime\obj\Debug\DateAndTime.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\DateAndTime\obj\Debug\DateAndTime.pdb

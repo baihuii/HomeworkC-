@@ -1,0 +1,5 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb

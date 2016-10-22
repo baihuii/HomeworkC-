@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\ASCII\bin\Debug\ASCII.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\ASCII\bin\Debug\ASCII.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\ASCII\obj\Debug\ASCII.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\ASCII\obj\Debug\ASCII.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\ASCII\obj\Debug\ASCII.pdb

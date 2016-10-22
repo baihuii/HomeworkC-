@@ -1,0 +1,5 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Exchange\bin\Debug\Exchange.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Exchange\bin\Debug\Exchange.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Exchange\bin\Debug\Exchange.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Exchange\obj\Debug\Exchange.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Exchange\obj\Debug\Exchange.pdb

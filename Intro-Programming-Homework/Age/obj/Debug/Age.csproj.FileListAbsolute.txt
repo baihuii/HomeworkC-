@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Age\bin\Debug\Age.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Age\bin\Debug\Age.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Age\bin\Debug\Age.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Age\obj\Debug\Age.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Age\obj\Debug\Age.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache

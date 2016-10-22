@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb

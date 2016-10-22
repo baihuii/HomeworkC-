@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FloatCompare\bin\Debug\FloatCompare.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FloatCompare\bin\Debug\FloatCompare.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FloatCompare\bin\Debug\FloatCompare.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FloatCompare\obj\Debug\FloatCompare.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FloatCompare\obj\Debug\FloatCompare.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\FloatCompare\obj\Debug\FloatCompare.pdb

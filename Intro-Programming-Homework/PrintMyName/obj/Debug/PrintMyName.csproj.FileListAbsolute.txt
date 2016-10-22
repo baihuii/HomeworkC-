@@ -1,0 +1,6 @@
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\rodi\documents\visual studio 2015\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
