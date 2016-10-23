@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\Interval\bin\Debug\Interval.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\Interval\bin\Debug\Interval.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\Interval\bin\Debug\Interval.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\Interval\obj\Debug\Interval.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\Interval\obj\Debug\Interval.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\Interval\obj\Debug\Interval.pdb

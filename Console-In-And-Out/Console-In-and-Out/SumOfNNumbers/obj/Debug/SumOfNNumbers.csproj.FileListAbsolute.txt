@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\SumOfNNumbers\bin\Debug\SumOfNNumbers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\SumOfNNumbers\bin\Debug\SumOfNNumbers.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\SumOfNNumbers\obj\Debug\SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\SumOfNNumbers\obj\Debug\SumOfNNumbers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Console-In-and-Out\SumOfNNumbers\obj\Debug\SumOfNNumbers.pdb
