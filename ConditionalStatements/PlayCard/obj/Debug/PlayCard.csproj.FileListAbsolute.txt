@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\PlayCard\bin\Debug\PlayCard.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\PlayCard\bin\Debug\PlayCard.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\PlayCard\bin\Debug\PlayCard.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\PlayCard\obj\Debug\PlayCard.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\PlayCard\obj\Debug\PlayCard.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\PlayCard\obj\Debug\PlayCard.pdb

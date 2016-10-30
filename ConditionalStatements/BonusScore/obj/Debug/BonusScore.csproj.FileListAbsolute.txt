@@ -1,0 +1,9 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\ConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\ConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

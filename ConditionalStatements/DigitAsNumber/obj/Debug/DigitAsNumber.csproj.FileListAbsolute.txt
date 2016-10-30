@@ -1,0 +1,5 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\DigitAsNumber\bin\Debug\DigitAsNumber.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\DigitAsNumber\bin\Debug\DigitAsNumber.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\DigitAsNumber\bin\Debug\DigitAsNumber.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\DigitAsNumber\obj\Debug\DigitAsNumber.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\DigitAsNumber\obj\Debug\DigitAsNumber.pdb

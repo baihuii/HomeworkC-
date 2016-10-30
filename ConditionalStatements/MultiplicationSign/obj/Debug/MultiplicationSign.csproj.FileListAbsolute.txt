@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\MultiplicationSign\obj\Debug\MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

@@ -1,0 +1,9 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\ExchangeIfGrater\bin\Debug\ExchangeIfGrater.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\ExchangeIfGrater\bin\Debug\ExchangeIfGrater.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\ExchangeIfGrater\bin\Debug\ExchangeIfGrater.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\ConditionalStatements\ExchangeIfGrater\bin\Debug\ExchangeIfGrater.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\ConditionalStatements\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\ConditionalStatements\ExchangeIfGrater\obj\Debug\ExchangeIfGrater.pdb

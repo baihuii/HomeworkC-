@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\IntDoubleString\bin\Debug\IntDoubleString.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\IntDoubleString\bin\Debug\IntDoubleString.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\IntDoubleString\obj\Debug\IntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\IntDoubleString\obj\Debug\IntDoubleString.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Console-In-And-Out\Solution1\IntDoubleString\obj\Debug\IntDoubleString.pdb
