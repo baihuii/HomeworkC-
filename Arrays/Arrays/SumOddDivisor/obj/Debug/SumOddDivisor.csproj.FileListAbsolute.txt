@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SumOddDivisor\bin\Debug\SumOddDivisor.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SumOddDivisor\bin\Debug\SumOddDivisor.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SumOddDivisor\bin\Debug\SumOddDivisor.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SumOddDivisor\obj\Debug\SumOddDivisor.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SumOddDivisor\obj\Debug\SumOddDivisor.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SumOddDivisor\obj\Debug\SumOddDivisor.pdb

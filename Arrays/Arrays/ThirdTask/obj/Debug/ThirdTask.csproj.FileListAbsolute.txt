@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\ThirdTask\bin\Debug\ThirdTask.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\ThirdTask\bin\Debug\ThirdTask.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\ThirdTask\bin\Debug\ThirdTask.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\ThirdTask\obj\Debug\ThirdTask.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\ThirdTask\obj\Debug\ThirdTask.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\ThirdTask\obj\Debug\ThirdTask.pdb

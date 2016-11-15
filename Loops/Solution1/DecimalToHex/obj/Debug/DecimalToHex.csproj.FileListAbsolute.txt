@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecimalToHex\bin\Debug\DecimalToHex.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecimalToHex\bin\Debug\DecimalToHex.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecimalToHex\obj\Debug\DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecimalToHex\obj\Debug\DecimalToHex.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecimalToHex\obj\Debug\DecimalToHex.pdb

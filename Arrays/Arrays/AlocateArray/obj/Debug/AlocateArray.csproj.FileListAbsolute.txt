@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\AlocateArray\bin\Debug\AlocateArray.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\AlocateArray\bin\Debug\AlocateArray.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\AlocateArray\bin\Debug\AlocateArray.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\AlocateArray\obj\Debug\AlocateArray.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\AlocateArray\obj\Debug\AlocateArray.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\AlocateArray\obj\Debug\AlocateArray.pdb

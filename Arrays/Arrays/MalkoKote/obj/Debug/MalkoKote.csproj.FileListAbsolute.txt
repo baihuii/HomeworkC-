@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MalkoKote\bin\Debug\MalkoKote.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MalkoKote\bin\Debug\MalkoKote.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MalkoKote\bin\Debug\MalkoKote.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MalkoKote\obj\Debug\MalkoKote.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MalkoKote\obj\Debug\MalkoKote.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MalkoKote\obj\Debug\MalkoKote.pdb

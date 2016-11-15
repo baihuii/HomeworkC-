@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\TsakiTask\bin\Debug\TsakiTask.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\TsakiTask\bin\Debug\TsakiTask.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\TsakiTask\bin\Debug\TsakiTask.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\TsakiTask\obj\Debug\TsakiTask.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\TsakiTask\obj\Debug\TsakiTask.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\TsakiTask\obj\Debug\TsakiTask.pdb

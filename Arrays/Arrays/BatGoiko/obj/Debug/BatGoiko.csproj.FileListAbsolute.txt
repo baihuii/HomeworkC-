@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BatGoiko\bin\Debug\BatGoiko.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BatGoiko\bin\Debug\BatGoiko.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BatGoiko\bin\Debug\BatGoiko.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BatGoiko\obj\Debug\BatGoiko.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BatGoiko\obj\Debug\BatGoiko.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BatGoiko\obj\Debug\BatGoiko.pdb

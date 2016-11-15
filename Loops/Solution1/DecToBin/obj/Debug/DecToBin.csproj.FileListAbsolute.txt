@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecToBin\bin\Debug\DecToBin.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecToBin\bin\Debug\DecToBin.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecToBin\bin\Debug\DecToBin.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecToBin\obj\Debug\DecToBin.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecToBin\obj\Debug\DecToBin.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\DecToBin\obj\Debug\DecToBin.pdb

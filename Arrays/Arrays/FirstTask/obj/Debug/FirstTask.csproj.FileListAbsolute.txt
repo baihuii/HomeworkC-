@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\FirstTask\obj\Debug\FirstTask.pdb

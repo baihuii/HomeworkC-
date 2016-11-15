@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SellectionSort\bin\Debug\SellectionSort.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SellectionSort\bin\Debug\SellectionSort.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SellectionSort\bin\Debug\SellectionSort.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SellectionSort\obj\Debug\SellectionSort.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SellectionSort\obj\Debug\SellectionSort.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\SellectionSort\obj\Debug\SellectionSort.pdb

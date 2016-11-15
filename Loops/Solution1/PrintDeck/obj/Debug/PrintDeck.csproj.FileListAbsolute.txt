@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\PrintDeck\bin\Debug\PrintDeck.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\PrintDeck\bin\Debug\PrintDeck.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\PrintDeck\bin\Debug\PrintDeck.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\PrintDeck\obj\Debug\PrintDeck.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\PrintDeck\obj\Debug\PrintDeck.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\PrintDeck\obj\Debug\PrintDeck.pdb

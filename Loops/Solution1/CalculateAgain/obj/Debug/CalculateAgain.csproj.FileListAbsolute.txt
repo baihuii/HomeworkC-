@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateAgain\bin\Debug\CalculateAgain.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateAgain\bin\Debug\CalculateAgain.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateAgain\obj\Debug\CalculateAgain.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateAgain\obj\Debug\CalculateAgain.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateAgain\obj\Debug\CalculateAgain.pdb

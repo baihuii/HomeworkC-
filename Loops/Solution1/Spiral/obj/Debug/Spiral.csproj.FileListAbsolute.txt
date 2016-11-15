@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\Spiral\bin\Debug\Spiral.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\Spiral\bin\Debug\Spiral.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\Spiral\bin\Debug\Spiral.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\Spiral\obj\Debug\Spiral.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\Spiral\obj\Debug\Spiral.pdb

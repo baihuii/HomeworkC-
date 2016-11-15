@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

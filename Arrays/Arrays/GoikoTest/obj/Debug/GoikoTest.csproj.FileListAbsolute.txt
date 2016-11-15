@@ -1,0 +1,5 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\GoikoTest\bin\Debug\GoikoTest.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\GoikoTest\bin\Debug\GoikoTest.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\GoikoTest\bin\Debug\GoikoTest.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\GoikoTest\obj\Debug\GoikoTest.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\GoikoTest\obj\Debug\GoikoTest.pdb

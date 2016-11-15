@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Busses\bin\Debug\Busses.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Busses\bin\Debug\Busses.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Busses\bin\Debug\Busses.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Busses\obj\Debug\Busses.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Busses\obj\Debug\Busses.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Busses\obj\Debug\Busses.pdb

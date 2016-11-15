@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Fire\bin\Debug\Fire.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Fire\bin\Debug\Fire.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Fire\bin\Debug\Fire.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Fire\obj\Debug\Fire.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Fire\obj\Debug\Fire.pdb

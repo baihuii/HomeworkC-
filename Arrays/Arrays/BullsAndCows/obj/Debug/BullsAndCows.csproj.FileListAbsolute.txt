@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BullsAndCows\obj\Debug\BullsAndCows.pdb

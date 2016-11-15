@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\squirrels\bin\Debug\squirrels.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\squirrels\bin\Debug\squirrels.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\squirrels\bin\Debug\squirrels.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\squirrels\obj\Debug\squirrels.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\squirrels\obj\Debug\squirrels.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\squirrels\obj\Debug\squirrels.pdb

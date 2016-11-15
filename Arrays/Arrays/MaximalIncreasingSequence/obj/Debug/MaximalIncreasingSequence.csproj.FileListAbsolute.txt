@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb

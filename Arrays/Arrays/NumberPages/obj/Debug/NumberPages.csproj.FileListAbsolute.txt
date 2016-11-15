@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\NumberPages\bin\Debug\NumberPages.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\NumberPages\bin\Debug\NumberPages.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\NumberPages\bin\Debug\NumberPages.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\NumberPages\obj\Debug\NumberPages.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\NumberPages\obj\Debug\NumberPages.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\NumberPages\obj\Debug\NumberPages.pdb

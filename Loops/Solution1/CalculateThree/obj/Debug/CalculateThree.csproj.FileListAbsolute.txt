@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateThree\bin\Debug\CalculateThree.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateThree\bin\Debug\CalculateThree.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateThree\bin\Debug\CalculateThree.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateThree\obj\Debug\CalculateThree.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateThree\obj\Debug\CalculateThree.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\CalculateThree\obj\Debug\CalculateThree.pdb

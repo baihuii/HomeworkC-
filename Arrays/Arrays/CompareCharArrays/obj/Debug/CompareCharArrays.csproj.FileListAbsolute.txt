@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

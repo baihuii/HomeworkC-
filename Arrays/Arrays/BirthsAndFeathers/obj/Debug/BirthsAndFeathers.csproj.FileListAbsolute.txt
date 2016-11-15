@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BirthsAndFeathers\bin\Debug\BirthsAndFeathers.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BirthsAndFeathers\bin\Debug\BirthsAndFeathers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BirthsAndFeathers\bin\Debug\BirthsAndFeathers.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BirthsAndFeathers\obj\Debug\BirthsAndFeathers.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BirthsAndFeathers\obj\Debug\BirthsAndFeathers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\BirthsAndFeathers\obj\Debug\BirthsAndFeathers.pdb

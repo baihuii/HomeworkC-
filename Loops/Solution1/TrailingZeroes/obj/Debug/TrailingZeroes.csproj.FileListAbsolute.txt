@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\TrailingZeroes\bin\Debug\TrailingZeroes.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\TrailingZeroes\obj\Debug\TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\TrailingZeroes\obj\Debug\TrailingZeroes.pdb

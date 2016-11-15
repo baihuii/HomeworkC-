@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\MatrixNumbers\bin\Debug\MatrixNumbers.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\MatrixNumbers\bin\Debug\MatrixNumbers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\MatrixNumbers\bin\Debug\MatrixNumbers.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\MatrixNumbers\obj\Debug\MatrixNumbers.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\MatrixNumbers\obj\Debug\MatrixNumbers.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Loops\Solution1\MatrixNumbers\obj\Debug\MatrixNumbers.pdb

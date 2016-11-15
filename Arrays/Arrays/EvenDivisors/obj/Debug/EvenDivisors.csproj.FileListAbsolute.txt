@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\EvenDivisors\bin\Debug\EvenDivisors.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\EvenDivisors\bin\Debug\EvenDivisors.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\EvenDivisors\bin\Debug\EvenDivisors.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\EvenDivisors\obj\Debug\EvenDivisors.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\EvenDivisors\obj\Debug\EvenDivisors.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\EvenDivisors\obj\Debug\EvenDivisors.pdb

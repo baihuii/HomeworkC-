@@ -1,0 +1,6 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Tests\bin\Debug\Tests.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Tests\bin\Debug\Tests.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Tests\bin\Debug\Tests.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Tests\obj\Debug\Tests.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\Tests\obj\Debug\Tests.pdb

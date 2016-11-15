@@ -1,0 +1,5 @@
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareArrays\bin\Debug\CompareArrays.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareArrays\bin\Debug\CompareArrays.pdb
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareArrays\obj\Debug\CompareArrays.exe
+C:\Users\rodi\Documents\Visual Studio 2015\Projects\Arrays\Arrays\CompareArrays\obj\Debug\CompareArrays.pdb
